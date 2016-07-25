@@ -1,0 +1,1 @@
+create table Honeyword_user_data  (NAME VARCHAR2(60), USERNAME VARCHAR2(60),password VARCHAR2(60),phone VARCHAR2(60),id VARCHAR2(60),ip VARCHAR2(60))

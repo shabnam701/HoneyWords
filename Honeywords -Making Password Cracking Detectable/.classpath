@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Honey/jar3/jar/seaglasslookandfeel-0.2.jar"/>
+	<classpathentry kind="lib" path="F:/Honey/jar3/jar/jars/jar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="F:/Honey/jar3/jar/jars/jar/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

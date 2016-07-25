@@ -1,0 +1,6 @@
+Run Admin.java,Attacker.java, sign_in.java, Honeychecker.java.
+
+1. In signin page, press sign up and register for user.
+2. After signing in upload or download file(Downloaded file will be stored in DownloadFiles folder)
+3. in Attacker front end press "Find password by brute force method" and enter username, it will get honeyword.
+4. use that password to login.
